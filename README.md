@@ -5,3 +5,4 @@ FACULTY OF COMPUTING
 COMPUTER SCIENCE DEPARTMENT 
 2nd year students
 jun 2023.
+![alt text](https://github.com/NahomAnteneh/UML-Implementation/blob/main/UML%20Class%20diagram.jpg?raw=true)
